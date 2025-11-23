@@ -56,4 +56,8 @@ npm start
 
 Thanks to As a programmer for this complete video tutorial: Check out the [Video Tutorial on YouTube](https://youtu.be/HwCqsOis894) for a complete walkthrough!
 
+<img width="1332" height="749" alt="image" src="https://github.com/user-attachments/assets/4a16da29-6d36-4915-9353-6f28b569f0f0" />
+
+<img width="1407" height="791" alt="image" src="https://github.com/user-attachments/assets/3a157da7-bfdb-49a6-aaa4-bfc97126326e" />
+
 Enjoy building and deploying your very own real-time chat application! 🚀
